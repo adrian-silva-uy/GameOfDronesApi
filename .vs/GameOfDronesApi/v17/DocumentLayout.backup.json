@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|c:\\users\\adria\\source\\repos\\gameofdronesapi\\gameofdronesapi\\clientapp\\gameofdronesfe\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|solutionrelative:gameofdronesapi\\clientapp\\gameofdronesfe\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|c:\\users\\adria\\source\\repos\\gameofdronesapi\\gameofdronesapi\\gameofdronesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|solutionrelative:gameofdronesapi\\gameofdronesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|c:\\users\\adria\\source\\repos\\gameofdronesapi\\gameofdronesapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|solutionrelative:gameofdronesapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|c:\\users\\adria\\source\\repos\\gameofdronesapi\\gameofdronesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|solutionrelative:gameofdronesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|c:\\users\\adria\\source\\repos\\gameofdronesapi\\gameofdronesapi\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|solutionrelative:gameofdronesapi\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|c:\\users\\adria\\source\\repos\\gameofdronesapi\\gameofdronesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|solutionrelative:gameofdronesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|c:\\users\\adria\\source\\repos\\gameofdronesapi\\gameofdronesapi\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|solutionrelative:gameofdronesapi\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|c:\\users\\adria\\source\\repos\\gameofdronesapi\\gameofdronesapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|solutionrelative:gameofdronesapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|c:\\users\\adria\\source\\repos\\gameofdronesapi\\gameofdronesapi\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|solutionrelative:gameofdronesapi\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|c:\\users\\adria\\source\\repos\\gameofdronesapi\\gameofdronesapi\\enums\\movescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EA280A-9BFE-4305-BE16-683157081292}|GameOfDronesApi\\GameOfDronesApi.csproj|solutionrelative:gameofdronesapi\\enums\\movescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\ClientApp\\GameOfDronesFE\\.gitignore",
+              "RelativeDocumentMoniker": "GameOfDronesApi\\ClientApp\\GameOfDronesFE\\.gitignore",
+              "ToolTip": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\ClientApp\\GameOfDronesFE\\.gitignore",
+              "RelativeToolTip": "GameOfDronesApi\\ClientApp\\GameOfDronesFE\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-23T21:01:48.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameOfDronesApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\GameOfDronesApi.csproj",
+              "RelativeDocumentMoniker": "GameOfDronesApi\\GameOfDronesApi.csproj",
+              "ToolTip": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\GameOfDronesApi.csproj",
+              "RelativeToolTip": "GameOfDronesApi\\GameOfDronesApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T19:45:08.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "GameOfDronesApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\appsettings.json",
+              "RelativeToolTip": "GameOfDronesApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T16:45:32.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Program.cs",
+              "RelativeDocumentMoniker": "GameOfDronesApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Program.cs",
+              "RelativeToolTip": "GameOfDronesApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:43:24.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Data\\GameContext.cs",
+              "RelativeDocumentMoniker": "GameOfDronesApi\\Data\\GameContext.cs",
+              "ToolTip": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Data\\GameContext.cs",
+              "RelativeToolTip": "GameOfDronesApi\\Data\\GameContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:13:42.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GameOfDronesApi\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GameOfDronesApi\\Controllers\\GameController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA4wEIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:01:59.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movescs.cs",
+              "DocumentMoniker": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Enums\\Movescs.cs",
+              "RelativeDocumentMoniker": "GameOfDronesApi\\Enums\\Movescs.cs",
+              "ToolTip": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Enums\\Movescs.cs",
+              "RelativeToolTip": "GameOfDronesApi\\Enums\\Movescs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:22:33.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "GameOfDronesApi\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Services\\GameService.cs",
+              "RelativeToolTip": "GameOfDronesApi\\Services\\GameService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:19:18.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GameOfDronesApi\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Models\\Game.cs",
+              "RelativeToolTip": "GameOfDronesApi\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:13:23.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "GameOfDronesApi\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\ADRIA\\source\\repos\\GameOfDronesApi\\GameOfDronesApi\\Models\\Player.cs",
+              "RelativeToolTip": "GameOfDronesApi\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:12:11.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

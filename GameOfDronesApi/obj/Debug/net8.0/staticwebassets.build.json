@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YdRoUBRnyf2shdGGds55GIED5TQ4v0N5aajsebiBhsw=",
+  "Source": "GameOfDronesApi",
+  "BasePath": "_content/GameOfDronesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
